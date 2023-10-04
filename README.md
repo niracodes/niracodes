@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niracodes
 - 👀 I’m interested in computer science
 - 🌱 I’m currently in highschool
-- 💞️ I’m looking forward to work in google
+- 💞️ I’m looking forward to work in google ✨
 - 📫 How to reach me: nirac1008@gmail.com
 
 <!---
